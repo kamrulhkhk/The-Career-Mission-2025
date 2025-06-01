@@ -1,0 +1,460 @@
+/*laptop device*/
+@media screen and (max-width: 1200px) {
+   #nav-bar {
+      background-color: #ffffffbe;
+      padding: 30px;
+   }
+
+   .navbar-content {
+      margin-left: 80px;
+      margin-right: 80px;
+      font-size: 18px;
+
+   }
+
+   #navbutton {
+      font-size: 16px;
+
+   }
+
+   #banner-content h2 {
+      margin: 20px;
+      font-size: 32px;
+
+   }
+
+   #banner-content p {
+      margin: 20px;
+      font-size: 16px;
+      text-align: center;
+   }
+
+   #banner-content a {
+      margin: 20px;
+   }
+
+   #why-you-want p {
+      margin-left: 200px;
+      margin-right: 200px;
+      font-size: 16px;
+      text-align: center;
+   }
+
+   #the-resone h1 {
+      font-size: 30px;
+      margin-bottom: 30px;
+   }
+
+   #the-resone p {
+      font-size: 16px;
+      margin-bottom: 30px;
+   }
+
+   #challenge h1 {
+      font-size: 32;
+      margin-bottom: 20px;
+   }
+
+   #challenge p {
+      font-size: 16px;
+      text-align: center;
+      margin: 20px 200px 20px 200px;
+   }
+
+   #challenge-video {
+
+      width: 780px;
+      height: 420px;
+
+
+   }
+
+   #challenge-video iframe {
+      width: 680px;
+      height: 320px;
+
+   }
+
+   #Target h1 {
+      font-size: 32px;
+      margin-bottom: 30px;
+   }
+
+   #Target p {
+      font-size: 16px;
+      margin-bottom: 30px;
+      margin: 20px 200px 20px 200px;
+      text-align: center;
+   }
+
+   #Target-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 50px 150px 80px 150px;
+      justify-content: space-between;
+
+   }
+
+   #CSS {
+      margin-top: 30px;
+   }
+
+   #Tailwind {
+      margin-top: 30px;
+   }
+
+   #footer {
+
+      font-size: 8px;
+   }
+
+   #img-icons img {
+
+      width: 30px;
+      height: auto;
+   }
+
+   #img {
+      object-fit: cover;
+   }
+
+
+}
+
+@media screen and (max-width: 1024px) {
+
+   #nav-bar {
+      background-color: #ffffffbe;
+      padding: 20px;
+   }
+
+   .navbar-content {
+      margin-left: 80px;
+      margin-right: 80px;
+      font-size: 12px;
+
+
+   }
+
+   #banner {
+
+      padding: 50px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+   }
+
+
+   #navbutton {
+      font-size: 10px;
+   }
+
+   #banner-content h2 {
+      font-size: 20px;
+
+   }
+
+   #banner-content p {
+      font-size: 12px;
+   }
+
+   #why-you-want p {
+      margin-left: 200px;
+      margin-right: 200px;
+      font-size: 12px;
+      text-align: center;
+   }
+
+   #work-card {
+      background-color: #ffffff88;
+      margin-top: 50px;
+      padding: 80px;
+      border-radius: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: column;
+      text-align: center;
+   }
+
+   #developer {
+
+      width: 80%;
+      padding-bottom: 20px;
+
+   }
+
+
+   #the-resone {
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+      justify-content: space-between;
+      margin-bottom: 0px;
+
+   }
+
+   #the-resone h1 {
+      font-size: 20px;
+      margin-bottom: 30px;
+   }
+
+   #the-resone p {
+      font-size: 12px;
+      margin-bottom: 30px;
+   }
+
+   #the-resone a {
+      margin-left: 33%;
+   }
+
+   #challenge h1 {
+      font-size: 24;
+      margin-bottom: 20px;
+   }
+
+   #challenge p {
+      font-size: 12px;
+      text-align: center;
+      margin: 20px 200px 20px 200px;
+   }
+
+   #challenge-video {
+
+      width: 480px;
+      height: 320px;
+
+   }
+
+   #challenge-video iframe {
+      width: 380px;
+      height: 200px;
+
+   }
+
+   #Target-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 70px;
+      justify-content: space-between;
+
+   }
+
+   #Target h1 {
+      font-size: 24px;
+      margin-bottom: 30px;
+   }
+
+   #Target p {
+      font-size: 20px;
+      margin-bottom: 0px;
+      margin: 20px 200px 20px 200px;
+      text-align: center;
+   }
+
+   #Target-card {
+      margin-bottom: 10px;
+
+   }
+
+   #web-footer {
+      background-color: #ffffffbe;
+      padding: 10px;
+   }
+
+   #footer {
+
+      font-size: 5px;
+   }
+
+   #img-icons img {
+
+      width: 20px;
+      height: auto;
+   }
+
+}
+
+
+
+@media screen and (max-width: 640px) {
+   .navbar-content {
+      margin-left: 50px;
+      margin-right: 50px;
+      font-size: 8px;
+   }
+
+   #navbutton {
+      font-size: 8px;
+      padding: 8px 15px 8px 15px;
+   }
+
+   #banner {
+
+      margin: 30px;
+      padding: 30px;
+
+   }
+
+   #why-you-want {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+   }
+
+   #why-you-want h1 {
+      font-size: 24px;
+   }
+
+   #why-you-want p {
+      margin: 8px 100px 8px 100px;
+      font-size: 10px;
+      text-align: center;
+   }
+
+   #work-card {
+      margin: 30px;
+      padding: 30px;
+      align-items: center;
+   }
+
+   #the-resone a {
+      margin-left: 35%;
+   }
+
+   #challenge h1 {
+      font-size: 24;
+      margin-bottom: 20px;
+   }
+
+   #challenge p {
+      font-size: 10px;
+      text-align: center;
+      margin: 8px 100px 8px 100px;
+   }
+
+   #challenge-video {
+
+      width: 280px;
+      height: 180px;
+
+   }
+
+   #challenge-video iframe {
+      width: 220px;
+      height: 120px;
+
+   }
+
+   #Target {
+      margin-top: 20px;
+   }
+
+   #Target h1 {
+      font-size: 24px;
+      margin-bottom: 30px;
+   }
+
+   #Target p {
+      font-size: 10px;
+      margin-bottom: 10px;
+      margin: 8px 100px 8px 100px;
+      text-align: center;
+   }
+
+   #Target-card {
+      display: flex;
+      align-items: center;
+      padding: 5px;
+      justify-content: space-between;
+      margin-bottom: 30px;
+
+   }
+
+   #HTML {
+      width: 235px;
+      height: 170px;
+      border-radius: 20px;
+      padding-left: 40px;
+      margin-top: 20px;
+
+   }
+
+   #HTML h1,
+   p,
+   a {
+      margin-bottom: 5px;
+
+   }
+
+   #HTML h1 {
+
+      font-size: 28px;
+   }
+
+   #HTML a {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      width: 10px;
+      height: auto;
+   }
+
+   #CSS {
+      width: 235px;
+      height: 170px;
+      border-radius: 20px;
+      padding-left: 40px;
+      margin-top: 20px;
+   }
+
+   #CSS h1,
+   p,
+   a {
+      margin-bottom: 5px;
+
+   }
+
+   #CSS h1 {
+
+      font-size: 28px;
+   }
+
+   #CSS a {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      width: 10px;
+      height: auto;
+   }
+
+   #Tailwind {
+      width: 235px;
+      height: 170px;
+      border-radius: 20px;
+      padding-left: 40px;
+      margin-top: 20px;
+   }
+
+   #Tailwind h1,
+   p,
+   a {
+      margin-bottom: 5px;
+
+   }
+
+   #Tailwind h1 {
+
+      font-size: 28px;
+   }
+
+   #Tailwind a {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      width: 10px;
+      height: auto;
+   }
+
+
+
+}
